@@ -1,0 +1,155 @@
+.intro {
+  font-family: "Cookie", sans-serif;
+}
+
+.p1 {
+  color: #06283D;
+  margin-left: 10rem;
+  font-family: 'Ek Mukta', sans-serif;
+  font-size: 2rem;
+}
+
+.img {
+  margin-right: 4px;
+}
+
+.imvarun {
+  color: #393E46;
+  font-size: 6rem;
+  margin-top: 4rem;
+  text-align: center;
+}
+
+.profilepic {
+  margin-top: 11.8rem;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.title {
+  background-color: #EFF5F5;
+}
+
+.navbar {
+  background-color: #97DECE;
+  color: Black;
+  font-weight: 500;
+}
+
+.skills {
+  background-color: #C7BCA1;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.rounded-circle {
+  padding: 30px;
+}
+
+.desk {
+  height: 250px;
+}
+
+.swit {
+  height: 250px;
+}
+
+.thirdgrid {
+  padding-top: 15px;
+  padding-left: 10px;
+  padding-bottom: 113px;
+}
+
+.card {
+  color: #3C4048;
+}
+
+.workheading, .eduheading {
+  font-size: 4rem;
+  font-family: "Cookie", sans-serif;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+.Work-Experience {
+  background-color: #FFFBEB;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.workl {
+  color: #06283D;
+  margin-left: 10rem;
+  margin-right: 1.5rem;
+  font-family: 'Ek Mukta', sans-serif;
+  font-size: 1.5rem;
+}
+
+.workr, .edup {
+  color: #06283D;
+  margin-right: 10rem;
+  margin-left: 1.5rem;
+  font-family: 'Ek Mukta', sans-serif;
+  font-size: 1.5rem;
+}
+
+.afs {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+.armtechsection {
+  margin-top: 3rem;
+}
+
+.workrp {
+  margin-top: 2rem;
+}
+
+.education {
+  background-color: #EFF5F5;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.vijaya {
+  width: 500px;
+}
+
+.ping {
+  background-color: #EFF5F5;
+  padding-top: 3rem;
+}
+
+.pingl {
+  color: #06283D;
+  margin-left: 10rem;
+  margin-right: 1.5rem;
+  font-family: 'Ek Mukta', sans-serif;
+  font-size: 1.5rem;
+  padding-bottom: 2rem;
+}
+
+.pingme {
+  font-size: 4rem;
+  font-family: "Cookie", sans-serif;
+  text-align: left;
+  padding-bottom: 2rem;
+}
+
+.fa {
+  color: Black;
+  padding: 2rem;
+}
+
+.footer {
+  background-color: #97DECE;
+}
+
+.pingimage {
+  margin-left: 8rem;
+  margin-top: 4rem;
+}
